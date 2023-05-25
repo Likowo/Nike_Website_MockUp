@@ -1,0 +1,71 @@
+.navContainer{
+    border: solid black;
+    height:36px;
+   border-width:0.2px;
+   display:flex;
+   justify-content:space-between;
+   background-color:lightgray;
+}
+.subNav{
+    border: solid green;
+    height:64px;
+    border-width:0.2px;
+    display:flex;
+    justify-content:space-evenly;
+}
+.scrollContainer{
+    border: solid peru;
+    height:45px;
+   /* border-width:0.2px; */
+}
+.mainImg{
+    border: solid purple;
+    height:575px;
+    margin:1em;
+}
+.midContainer{
+    border: solid blue;
+    height:22vh;
+    margin:1em;
+}
+.iconContainer{
+    border:solid red;
+    display:flex
+}
+.themeContainer{
+    display:flex;
+    justify-content:space-evenly;
+    width:400px;
+}
+.logo{
+    margin:5px;
+    height:25px;
+}
+.theme{
+    text-align:right;
+    padding-top:6px;
+}
+.miniSub{
+    border:solid pink;
+    width:10px;
+}
+.nike{
+    border: solid blue;
+    width:55px;
+    height:100%;
+}
+.menu{
+    border:solid lightblue;
+}
+.searchbar{
+    border:solid red;
+}
+.symbol{
+    border:solid turquoise;
+}
+.flexer{
+    display:flex;
+    justify-content:space-evenly;
+    padding: top 12px;
+    width:32%;
+}
